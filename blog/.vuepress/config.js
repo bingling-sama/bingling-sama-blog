@@ -7,6 +7,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico'}]
         ['link', { rel: 'stylesheet', href: '/bingling.png'}]
+        ['script', { src: 'https://cdn.bootcss.com/jquery/3.4.1/jquery.js' }]
     ],
     themeConfig: {
         author: 'bingling_sama',
