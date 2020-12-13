@@ -6,7 +6,6 @@ module.exports = {
     port: 8090,
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico'}]
-        ['link', { rel: 'stylesheet', href: '/bingling.png'}]
         ['script', { src: 'https://cdn.bootcss.com/jquery/3.4.1/jquery.js' }]
     ],
     themeConfig: {
