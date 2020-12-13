@@ -13,7 +13,7 @@
   "scripts": {
     "blog:install": "yarn add -D vuepress",
     "blog:dev": "yarn vuepress dev --open blog",
-    "blod:build": "yarn vepress build blog"
+    "blog:build": "yarn vuepress build blog"
   },
   "keywords": [],
   "dependencies": {
