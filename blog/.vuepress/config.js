@@ -4,16 +4,13 @@ module.exports = {
     theme: 'ting',
     host: 'localhost',
     port: 8090,
-    head: [
-        ['link', { rel: 'icon', href: '/favicon.ico'}]
-        ['script', { src: 'https://cdn.bootcss.com/jquery/3.4.1/jquery.js' }]
-    ],
     themeConfig: {
         author: 'bingling_sama',
-        headImg: '/bingling.png',
+        headImg: '/img/bingling.png',
         catalog: '/catalog',
         lastUpdated: '最近更新',
         smoothScroll: true,
+        live2dModel: '/live2d/model.json',
         nav: [
             { text: '主页', link: '/' },
             { text: '目录',link:'/config/catalog'},
