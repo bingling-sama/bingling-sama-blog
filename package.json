@@ -4,19 +4,28 @@
   "description": "Bingling's personal blog",
   "main": "index.js",
   "repository": "git@github.com:bingling-sama/bingling-sama-blog.git",
-  "author": "bingling_sama <bingling_sama@qq.com>",
+  "author": {
+    "name": "bingling_sama",
+    "email": "bingling_sama@qq.com",
+    "url": "https://www.booling.cn/"
+  },
   "license": "MIT",
   "private": false,
   "devDependencies": {
+    "highlight.js": "^10.4.1",
+    "vue-highlight.js": "^3.1.0",
     "vuepress": "^1.7.1"
   },
   "scripts": {
-    "blog:install": "yarn add -D vuepress",
+    "blog:install": "yarn add -D vuepress && yarn add -D highlight.js && yarn add -D vue-highlight.js",
     "blog:dev": "yarn vuepress dev --open blog",
     "blog:build": "yarn vuepress build blog"
   },
-  "keywords": [],
-  "dependencies": {
-    "vuepress-theme-ting": "^2.0.2"
-  }
+  "keywords": [
+    "vue",
+    "vuepress",
+    "bingling_sama",
+    "冰凌"
+  ],
+  "dependencies": {}
 }
