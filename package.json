@@ -12,7 +12,8 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "vuepress": "^1.7.1"
+    "vuepress": "^1.7.1",
+    "vuepress-theme-modern-blog": "^2.12.1"
   },
   "scripts": {
     "blog:install": "yarn",
