@@ -5,7 +5,7 @@ module.exports = {
     host: 'localhost',
     port: 8090,
     head: [
-        ['link', { rel: 'icon', href: '/favicon.ioc'}]
+        ['link', { rel: 'icon', href: '/favicon.ico'}]
     ],
     extraWatchFiles: [
         '.vuepress/config.js'
