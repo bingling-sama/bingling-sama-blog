@@ -31,7 +31,7 @@ module.exports = {
             {
                 text: "项目",
                 link: "/projects/",
-                icon: "el-icon-floder",
+                icon: "el-icon-folder",
             },
         ],
         posts: {
