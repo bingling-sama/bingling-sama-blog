@@ -1,7 +1,7 @@
 module.exports = {
     title: "Booling✨",
     description: "冰凌sama的个人博客！",
-    theme: "modern-blog",
+    theme: require.resolve('./theme/'),
     host: 'localhost',
     port: 8090,
     head: [
