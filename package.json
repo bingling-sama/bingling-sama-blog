@@ -12,12 +12,11 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "highlight.js": "^10.4.1",
-    "vue-highlight.js": "^3.1.0",
-    "vuepress": "^1.7.1"
+    "vuepress": "^1.7.1",
+    "vuepress-theme-modern-blog": "^2.12.1"
   },
   "scripts": {
-    "blog:install": "yarn add -D vuepress && yarn add -D highlight.js && yarn add -D vue-highlight.js",
+    "blog:install": "yarn",
     "blog:dev": "yarn vuepress dev --open blog",
     "blog:build": "yarn vuepress build blog"
   },

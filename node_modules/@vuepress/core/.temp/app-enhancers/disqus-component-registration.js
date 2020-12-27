@@ -1,0 +1,1 @@
+export default ({ Vue }) => { Vue.component('Disqus', () => import('vue-disqus/src/vue-disqus.vue')) }
