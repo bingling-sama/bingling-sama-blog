@@ -10,6 +10,11 @@ module.exports = {
     extraWatchFiles: [
         '.vuepress/config.js'
     ],
+    locales: {
+        '/': {
+            lang: 'zh-CN'
+        }
+    },
     themeConfig: {
         translations: {
             read_more: "阅读更多...",
@@ -33,6 +38,10 @@ module.exports = {
                 link: "/projects/",
                 icon: "el-icon-folder",
             },
+            {
+                text: "关于",
+                link: "/about.html"
+            }
         ],
         posts: {
             prepend: "尽情享受阅读吧！",
