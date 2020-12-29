@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "6497224ecb8e3372",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9e8a28a2a31d4fd",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/example.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fe85724b7ad3fe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "32dd8680d0e63ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "600383fb11cce61a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e00d07eb097ad9d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f6959499cc939a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "213491b97e2d37b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a065ec1ef1c5adc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/example.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_posts/example.md",
+    "_projects/example.md",
+    "_posts/Untitled.md",
+    "Untitled.md",
+    "about.md"
+  ]
+}
