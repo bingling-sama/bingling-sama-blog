@@ -41,12 +41,12 @@ module.exports = {
             {
                 text: "关于",
                 link: "/about.html",
-                icon: "el-icon-more"
+                icon: "el-icon-more     "
             }
         ],
         posts: {
             prepend: "尽情享受阅读吧！",
-            append: "到底啦",
+            append: "到底啦~",
         },
         disqus: "booling",
         about: {
