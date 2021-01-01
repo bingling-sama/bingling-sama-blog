@@ -22,7 +22,7 @@ module.exports = {
         },
         summary: true,
         summary: {
-            paragraphs: 2,
+            paragraphs: 1,
             paragraphsSeparator: "...\n",
             paragraphsJoiner: "",
             prepend: "🔈",
