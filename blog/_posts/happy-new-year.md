@@ -18,7 +18,6 @@ meta:
   content: bingling_sama
 - name: language
   content: Chinese
-featured: true
 ---
 
 #  新年快乐！🎉
