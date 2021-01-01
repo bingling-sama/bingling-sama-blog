@@ -41,7 +41,7 @@ module.exports = {
             {
                 text: "关于",
                 link: "/about.html",
-                icon: "el-icon-more     "
+                icon: "el-icon-more"
             }
         ],
         posts: {
