@@ -38,7 +38,7 @@ meta:
 - 最后是白夜 [Wzhrdx](https://www.wzhrdx.xyz/)
 ---
 
-#### 来自 [LittleSkin][LittleSkin] 的朋友们
+#### 来自 [LittleSkin][ls] 的朋友们
 - 光标是我在 [LittleSkin][ls] 认识的最好的朋友辣 [Cursor_233][Cursor]
 - 然后是无所不能的 ~~金姐姐~~ [小金](https://blog.xiaojin233.cn/)
 ---
