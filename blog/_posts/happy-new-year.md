@@ -34,12 +34,12 @@ meta:
 #### 来自 [Lollipop Studio][lollipop] 的小伙伴们
 - 首先是 ~~富婆~~ 凉宫长栎 [Konara](https://blog.konara.best/)
 - 然后是小可爱光标 [Cursor_233][cursor]
-- 接着是豆焰 [BeanFlame](https://blog.beanflame.ml/)
+- 接着是豆焰 [BeanFlame](https://blog.beanflame.top/)
 - 最后是白夜 [Wzhrdx](https://www.wzhrdx.xyz/)
 ---
 
 #### 来自 [LittleSkin][ls] 的朋友们
-- 光标是我在 [LittleSkin][ls] 认识的最好的朋友辣 [Cursor_233][Cursor]
+- 光标是我在 [LittleSkin][ls] 认识的最好的朋友辣 [Cursor_233][cursor]
 - 然后是无所不能的 ~~金姐姐~~ [小金](https://blog.xiaojin233.cn/)
 ---
 
