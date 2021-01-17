@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/happy-new-year.md",
+            "file": "_posts/springboot/Day1.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/happy-new-year.md",
+            "file": "_posts/springboot/Day1.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/happy-new-year.md",
+                "file": "_posts/springboot/Day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/springboot/Day1.md",
+    "_posts/Untitled.md",
     "_posts/happy-new-year.md",
     "_projects/bingling-sama-blog.md",
     "_posts/TODO.md",
@@ -106,8 +108,6 @@
     "_posts/example.md",
     "_projects/example.md",
     "policy-summary.md",
-    "about.md",
-    "_posts/Untitled.md",
-    "Untitled.md"
+    "about.md"
   ]
 }
