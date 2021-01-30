@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/springboot/Day1.md",
+            "file": "_posts/lollipopstudio/RemakeNotes.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/springboot/Day1.md",
+            "file": "_posts/lollipopstudio/RemakeNotes.md",
             "mode": "preview"
           }
         },
@@ -66,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 175
   },
   "right": {
     "id": "6f6959499cc939a8",
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/springboot/Day1.md",
+                "file": "_posts/lollipopstudio/RemakeNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/lollipopstudio/Day1.md",
+    "_posts/springboot/Untitled.md",
     "_posts/springboot/Day1.md",
     "_posts/Untitled.md",
     "_posts/happy-new-year.md",
@@ -106,8 +108,6 @@
     "_posts/TODO.md",
     "_posts/bingling-sama-blog.md",
     "_posts/example.md",
-    "_projects/example.md",
-    "policy-summary.md",
-    "about.md"
+    "_projects/example.md"
   ]
 }
