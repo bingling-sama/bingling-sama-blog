@@ -11,6 +11,7 @@ image: null
 ---
 # Spring Boot 学习的第一天📔
 这里是冰凌的 Spring Boot 学习笔记，欢迎评论区讨论哦！🎉
+...
 
 ## 创建项目
 为了方便后续学习，我直接使用 Intellij IDEA 进行 Spring Boot 项目的创建

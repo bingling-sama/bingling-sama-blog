@@ -15,11 +15,14 @@ image: null
 ---
 
 # Lollipop Studio 官网重制笔记🎉
+这里是冰凌重制 [Lollipop Studio 官网][ls] 的笔记辣...
+
+## 起因 *Why?*
 由于原先使用的 [Vuepress][vp] 制作官网呈现的效果并不是很好   
 所以我决定使用原生 [Vue][vue] 加上强大的各种 UI 库   
-将 Lollipop Studio 官网重新制作   
+将 [Lollipop Studio][ls] 官网重新制作   
 
-## 起步
+## 起步 *Start*
 首先我在 [Lollipop Studio 官网仓库](https://github.com/bingling-sama/Lollipop-Studio) 开了个新的 Branch   
 用来存放未制作完成的新官网   
 
@@ -35,3 +38,4 @@ image: null
 [vp]: https://vuepress.vuejs.org/
 [vue]: https://vue3js.cn/docs/zh/
 [vc]: https://cli.vuejs.org/
+[ls]: https://www.lollipopstudio.cn/
