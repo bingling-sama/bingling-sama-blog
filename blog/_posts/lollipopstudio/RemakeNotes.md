@@ -3,7 +3,11 @@ date: '2021-01-30T17:54:47+08:00'
 author: bingling_sama
 location: China
 tag:
-  - null
+  - 前端
+  - HTML
+  - JavaScript
+  - CSS
+  - Vue
 title: Lollipop Studio 官网重置笔记
 description: null
 image: null
