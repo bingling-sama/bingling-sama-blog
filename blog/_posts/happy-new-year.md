@@ -34,7 +34,7 @@ meta:
 #### 来自 [Lollipop Studio][lollipop] 的小伙伴们
 - 首先是 ~~富婆~~ 凉宫长栎 [Konara](https://blog.konara.best/)
 - 然后是小可爱光标 [Cursor_233][cursor]
-- 接着是豆焰 [BeanFlame](https://blog.beanflame.top/)
+- 接着是豆焰 [BeanFlame](https://blog.beanflame.cn/)
 - 最后是白夜 [Wzhrdx](https://www.wzhrdx.xyz/)
 ---
 
