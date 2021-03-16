@@ -17,7 +17,7 @@
   },
   "scripts": {
     "blog:install": "yarn",
-    "blog:dev": "yarn vuepress dev --open blog",
+    "blog:dev": "yarn vuepress dev blog --open",
     "blog:build": "yarn vuepress build blog"
   },
   "keywords": [
