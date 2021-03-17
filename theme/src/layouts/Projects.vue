@@ -9,8 +9,8 @@
         <el-col
           v-for="project in projects"
           :key="project.name"
-          :sm="48"
-          :md="24"
+          :sm="24"
+          :md="12"
         >
           <el-card class="card project-card zoomIn">
             <router-link :to="project.regularPath">
