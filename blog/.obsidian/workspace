@@ -6,6 +6,7 @@
       {
         "id": "f0658bdc12ce2611",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "0636e73d631b5550",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/bingling-sama-blog.md",
+                "file": "_projects/lollipop-studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_projects/bingling-sama-blog.md",
     "_projects/lollipop-studio.md",
+    "_projects/bingling-sama-blog.md",
     "_projects/Untitled.md",
     "_posts/happy-new-year.md",
     "Untitled.md",
