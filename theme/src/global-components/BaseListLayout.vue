@@ -60,7 +60,7 @@ import {
 } from '@vuepress/plugin-blog/lib/client/components'
 
 export default {
-  components: { PostsList, Pagination, FeaturedPosts, About },
+  components: { PostsList, Pagination, FeaturedPosts, About},
   computed: {
     pages () {
       return this.$pagination.pages
