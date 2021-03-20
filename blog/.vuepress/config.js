@@ -54,7 +54,7 @@ module.exports = {
         about: {
             fullname: "bingling_sama",
             bio: "你好，这里是冰凌吖❤",
-            image: "/img/yjtp.png",
+            image: "https://cdn.jsdelivr.net/gh/bingling-sama/Resources@latest/img/bingling.png",
         },
         footer: {
             contact: [{
