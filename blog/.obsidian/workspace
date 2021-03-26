@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_projects/lollipop-studio.md",
+            "file": "_projects/magicelf3.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/lollipop-studio.md",
+                "file": "_projects/magicelf3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_projects/Untitled.md",
     "_projects/lollipop-studio.md",
     "_projects/bingling-sama-blog.md",
-    "_projects/Untitled.md",
     "_posts/happy-new-year.md",
     "Untitled.md",
     "_posts/lollipopstudio/RemakeNotes.md",

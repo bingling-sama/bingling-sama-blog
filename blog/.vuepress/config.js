@@ -5,7 +5,7 @@ module.exports = {
     host: 'localhost',
     port: 8090,
     head: [
-        ['link', { rel: 'icon', href: '/img/favicon.ico'}],
+        ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/bingling-sama/Resources@latest/img/favicon.ico'}],
         ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css' }],
         ['script', { src: 'https://cdn.jsdelivr.net/gh/bingling-sama/live2d-widget@latest/autoload.js' }]
     ],
