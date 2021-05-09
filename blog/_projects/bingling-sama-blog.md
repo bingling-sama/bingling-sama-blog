@@ -21,3 +21,4 @@ language:
 
 ## Bugs
 - ~~项目列表自适应失效~~ **fixed**
+- ~~BlogTags红点戳穿看板娘~~ **fixed**

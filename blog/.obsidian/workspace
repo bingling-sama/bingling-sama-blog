@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f0658bdc12ce2611",
+        "id": "0cf1d74431fc6d3e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_projects/magicelf3.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "0636e73d631b5550",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_projects/bingling-sama-blog.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -80,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/magicelf3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +82,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_projects/magicelf3.md",
     "_projects/Untitled.md",
     "_projects/lollipop-studio.md",
     "_projects/bingling-sama-blog.md",
@@ -105,7 +91,6 @@
     "_posts/lollipopstudio/RemakeNotes.md",
     "_posts/springboot/Day1.md",
     "_posts/lollipopstudio/Day1.md",
-    "_posts/springboot/Untitled.md",
-    "_posts/Untitled.md"
+    "_posts/springboot/Untitled.md"
   ]
 }

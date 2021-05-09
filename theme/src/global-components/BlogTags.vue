@@ -38,6 +38,6 @@ export default {
 
 <style lang="stylus">
 .el-badge__content {
-  z-index: 10;
+  z-index: 1;
 }
 </style>
