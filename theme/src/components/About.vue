@@ -41,6 +41,8 @@
 </template>
 
 <script>
+import { BilibiliIcon } from './icons.js'
+
 import {
   GithubIcon,
   FacebookIcon,
@@ -59,6 +61,7 @@ export default {
     YoutubeIcon,
     InstagramIcon,
     LinkedinIcon,
+    BilibiliIcon,
     BoldIcon,
   },
 
@@ -100,7 +103,7 @@ export default {
         case 'youtube':
           return 'YoutubeIcon'
         case 'bilibili':
-          return 'BoldIcon'
+          return 'BilibiliIcon'
         default:
           return ''
       }

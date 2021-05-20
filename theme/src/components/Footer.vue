@@ -43,6 +43,8 @@
 </template>
 
 <script>
+import { BilibiliIcon } from './icons.js'
+
 import {
   GithubIcon,
   FacebookIcon,
@@ -51,7 +53,6 @@ import {
   LinkedinIcon,
   YoutubeIcon,
   PhoneIcon,
-  BoldIcon,
 } from 'vue-feather-icons'
 
 export default {
@@ -63,7 +64,7 @@ export default {
     LinkedinIcon,
     YoutubeIcon,
     PhoneIcon,
-    BoldIcon,
+    BilibiliIcon,
   },
 
   computed: {
@@ -106,7 +107,7 @@ export default {
         case 'phone':
           return 'PhoneIcon'
         case 'bilibili':
-          return 'BoldIcon'
+          return 'BilibiliIcon'
         default:
           return ''
       }

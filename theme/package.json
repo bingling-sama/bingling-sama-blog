@@ -89,6 +89,7 @@
     "@vuepress/plugin-medium-zoom": "1.0.0",
     "@vuepress/plugin-nprogress": "1.0.0",
     "@vuepress/plugin-pwa": "1.0.0",
+    "@yzfe/svgicon-loader": "^1.0.5",
     "conventional-changelog-cli": "^2.0.31",
     "eslint": "^6.3.0",
     "eslint-config-standard": "^14.1.0",
