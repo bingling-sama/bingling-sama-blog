@@ -1,3 +1,8 @@
+const path = require('path')
+function resolve(dir) {
+    return path.join(__dirname, dir);
+}
+
 module.exports = {
     title: "Booling✨",
     description: "冰凌samaの个人博客",
@@ -81,10 +86,10 @@ module.exports = {
                 },
                 {
                     text: "MIT Licensed",
-                    link: "/"
+                    link: "https://mit-license.org/"
                 },
                 {
-                    text: "Copyright © 2020-present Vue.js",
+                    text: "Copyright © 2021-present Vue.js",
                     link: "/",
                 },
             ],

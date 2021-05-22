@@ -3,7 +3,6 @@ date: '2021-01-30T17:54:47+08:00'
 author: bingling_sama
 location: China
 tag:
-  - 前端
   - HTML
   - JavaScript
   - CSS
