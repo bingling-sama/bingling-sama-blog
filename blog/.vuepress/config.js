@@ -1,8 +1,3 @@
-const path = require('path')
-function resolve(dir) {
-    return path.join(__dirname, dir);
-}
-
 module.exports = {
     title: "Booling✨",
     description: "冰凌samaの个人博客",
@@ -11,8 +6,8 @@ module.exports = {
     port: 8090,
     head: [
         ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/bingling-sama/Resources@latest/img/favicon.ico'}],
-        ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css' }],
-        ['script', { src: 'https://cdn.jsdelivr.net/gh/bingling-sama/live2d-widget@latest/autoload.js' }]
+        ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css' }]
+        // ['script', { src: 'https://cdn.jsdelivr.net/gh/bingling-sama/live2d-widget@latest/autoload.js' }]
     ],
     extraWatchFiles: [
         '.vuepress/config.js'
@@ -27,7 +22,6 @@ module.exports = {
             read_more: "阅读更多...",
             read_this_post: "立刻阅读 →",
         },
-        summary: true,
         summary: {
             paragraphs: 1,
             paragraphsSeparator: "...\n",
